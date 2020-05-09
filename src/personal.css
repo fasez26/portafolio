@@ -40,3 +40,10 @@
     margin-top: 1em;
     margin-bottom: 6em;
   }
+  .columns1{
+    display: flex;
+    flex-basis: 0;
+    flex-grow: 1;
+    flex-shrink: 1;
+    padding: .75rem;
+  }
