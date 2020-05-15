@@ -47,9 +47,6 @@
     flex-shrink: 1;
     padding: .75rem;
   }
-  .table1{
-    font-weight: 90;
-    border-collapse: collapse;
-    border-spacing: 0;
-
+  .is-horizontal-center {
+    justify-content: center;
   }
